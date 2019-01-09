@@ -1,14 +1,12 @@
 #coding=utf-8
 import requests
-import threading
-import re
 import random
 from time import sleep
 from bs4 import BeautifulSoup
 
-__another__
+__author__ = 'olaheihei'
 '''
-
+日常请求测试文件
 '''
 
 #url = ''
